@@ -7,6 +7,4 @@
 
 ## SMIDGE
 
-AspNet için runtime'da css ve javascript dosyaları bundling & minification 
-
 [Wiki](https://github.com/Shazwazza/Smidge/wiki)
